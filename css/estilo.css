@@ -1,0 +1,66 @@
+
+nav{
+    background:#000;
+}
+
+
+header .container nav ul li a {
+    color: #FFF;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+header .container nav ul li .dropdown-menu {
+    color: #FFF;
+    text-decoration: none;
+    background-color: black;
+}
+
+header .container nav ul li div a:hover{
+    color: rgb(67, 111, 233);
+    background: transparent;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+
+header .container nav ul li a:hover {
+    color: rgb(67, 111, 233);
+}
+
+h1 ,  p{
+    color: #FFF;
+}
+
+#sobre{
+    padding-top: 200px;
+}
+
+footer#rodape{
+    background: #000;
+    margin-top: 100px;
+    padding-bottom: 20px;
+}
+
+#navbar-rodape{
+    padding-top: 20px;
+}
+
+#navbar-rodape ul{
+    padding-left: 20px;
+}
+
+.linha{
+    border: 1px solid red;
+}
+
+.copyright{
+    margin-top: 20px;
+    text-align: center;
+    color: #FFF;
+}
+
+
+
